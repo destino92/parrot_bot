@@ -1,0 +1,26 @@
+{
+  "name": "parrot_bot",
+  "version": "1.0.0",
+  "description": "Parrot bot for messenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/destino92/parrot_bot.git"
+  },
+  "keywords": [
+    "facebook",
+    "messenger",
+    "bot",
+    "chat",
+    "bot"
+  ],
+  "author": "Destino Dello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/destino92/parrot_bot/issues"
+  },
+  "homepage": "https://github.com/destino92/parrot_bot#readme"
+}
