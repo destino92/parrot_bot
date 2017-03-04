@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/destino92/parrot_bot/issues"
   },
-  "homepage": "https://github.com/destino92/parrot_bot#readme"
+  "homepage": "https://github.com/destino92/parrot_bot#readme",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "express": "^4.15.0",
+    "request": "^2.80.0"
+  }
 }
