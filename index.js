@@ -63,7 +63,7 @@ function sendTextMessage(sender, text) {
         text:text
     }
     request({
-        url: 'https://graph.facebook.com/v2.6/1761827604131497',
+        url: 'https://graph.facebook.com/v2.8/me/...',
         qs: {access_token:token},
         method: 'POST',
         json: {
@@ -144,7 +144,7 @@ function sendGenericMessage(sender) {
         }
     }
     request({
-        url: 'https://graph.facebook.com/v2.6/1761827604131497',
+        url: 'https://graph.facebook.com/v2.8/me/...',
         qs: {access_token:token},
         method: 'POST',
         json: {
